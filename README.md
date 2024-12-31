@@ -7,6 +7,7 @@ This data analysis project analyzes marketing ad campaigns for Fresh Cart, an on
 🔹Insight Discovery: Identifying which strategies drove the highest return on ad spend (ROAS).  
 🔹Targeted Recommendations: Proposing tailored approaches to allocate resources efficiently, ensuring maximum impact from the ad budget.  
 The insights derived were instrumental in developing strategies that not only improved ad efficiency but also supported Fresh Cart in achieving better overall business results.  
+## Dashboards
 
 ![amdari 1](https://github.com/user-attachments/assets/b9484885-5a24-4b15-aae1-7478ac541c4f)  
 
