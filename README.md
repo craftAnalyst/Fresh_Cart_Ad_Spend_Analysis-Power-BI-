@@ -1,5 +1,11 @@
 # Fresh_Cart_Ad_Spend_Analysis-Power-BI-   AMDARI 
 This data analysis project analyzes marketing ad campaigns for Fresh Cart, an online grocery store to optimize ad spending in enhancing business outcomes through an in-depth exploration of the dataset. Patterns and insights were uncovered to assess the effectiveness of various advertising strategies to procure tactics that works best.
+## View Dashboards
+<a href="https://github.com/craftAnalyst/Fresh_Cart_Ad_Spend_Analysis-Power-BI-/blob/main/amdari%201.jpg">Cover page</a>  
+<a href="https://github.com/craftAnalyst/Fresh_Cart_Ad_Spend_Analysis-Power-BI-/blob/main/Amdari%202.jpg">Analysis</a>  
+<a href="https://github.com/craftAnalyst/Fresh_Cart_Ad_Spend_Analysis-Power-BI-/blob/main/amdari%203.jpg">Campaign</a>  
+<a href="https://github.com/craftAnalyst/Fresh_Cart_Ad_Spend_Analysis-Power-BI-/blob/main/amdari%204.jpg">Insight</a>  
+<a href="https://github.com/craftAnalyst/Fresh_Cart_Ad_Spend_Analysis-Power-BI-/blob/main/amdari%205.jpg">Recomendations</a>
 
 ## Key aspects of the analysis included:  
 
